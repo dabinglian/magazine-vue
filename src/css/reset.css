@@ -1,0 +1,25 @@
+body{
+	padding: 0;
+	margin: 0;
+	font-family: "Microsoft YaHei";
+	font-size: 12px;
+	color: #666;
+	overflow: hidden;
+}
+*,h1,p,a,ul,li,i{
+	padding: 0;
+	margin: 0;
+	font-style: normal;
+	font-weight: normal;
+	border:0;
+	outline: 0;
+}
+ul,li{
+	list-style: none;
+	padding:0;
+	margin: 0;
+}
+a, a:hover, a:visited, a:active{
+	text-decoration: none;
+	color: #666;
+}
